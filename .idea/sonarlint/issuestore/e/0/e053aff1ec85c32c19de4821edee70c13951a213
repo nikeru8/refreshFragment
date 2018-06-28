@@ -1,0 +1,4 @@
+
+zsquid:S1450"YRemove the "mViewPager" field and declare it as a local variable in the relevant methods.(Õîµýúÿÿÿÿ8µ¿„®Ä,
+jsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±Ž8µ¿„®Ä,
+Msquid:S1905",Remove this unnecessary cast to "ViewPager".(¨˜ÃÎøÿÿÿÿ8µ¿„®Ä,
